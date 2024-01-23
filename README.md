@@ -3,7 +3,7 @@
 <h2>🛡️ Information Security Projects</h2>
  
 - [Creating a Honeynet](Link)
-- [Microsoft Sentinal]
+- [Microsoft Sentinal](LInk)
   
 <h2>📜 Certifications:</h2>
  
