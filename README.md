@@ -11,8 +11,8 @@
     
 <h2> 🤳 Connect with me:</h2>
  
-<img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="yourname | LinkedIn" width="22px" src="https://www.linkedin.com/in/guzmanjoshua/" />
+[<img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][X]
+[<img align="left" alt="yourname | LinkedIn" width="22px" src="https://www.linkedin.com/in/guzmanjoshua/" />][linkedin]
  
-[X]: https://X.com/
+[X]: https://www.X.com/
 [linkedin]: https://www.linkedin.com/in/guzmanjoshua/
