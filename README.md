@@ -5,7 +5,7 @@
 - [Creating a Honeynet](Link)
 - [Microsoft Sentinal](LInk)
   
-<h2>📜 Certifications:</h2>
+<h2>📜 Qualifications/Certifications:</h2>
 
 <h5> Security Blue Team </h5> 
 
