@@ -8,7 +8,7 @@
 <h2>📜 Certifications:</h2>
 
   - <a href="https://github.com/guzmanjoshua/Qualifications/blob/main/Introduction%20to%20Dark%20Web%20Operations-course.pdf"> Security Blue Team: Introduction to Darkweb Operations </a>
-  - [Security Blue Team: Introduction to Darkweb Operations](href="https://github.com/guzmanjoshua/Qualifications/blob/main/Introduction%20to%20Dark%20Web%20Operations-course.pdf")
+  - [Security Blue Team: Introduction to Darkweb Operations]("https://github.com/guzmanjoshua/Qualifications/blob/main/Introduction%20to%20Dark%20Web%20Operations-course.pdf")
   - [Security Blue Team: Introduction to OSINT](Link)
 </br>
 
