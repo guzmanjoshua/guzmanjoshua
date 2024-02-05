@@ -13,7 +13,7 @@
 
   - [Qualys: CyberSecurity Asset Management (CSAM)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-CSAM-course-completion.pdf)
   - [Qualys: Policy Compliance (PC)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-PC-course-completion.pdf)
-  -  [Qualys: PCI Compliance (PCIC)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-PC-course-completion.pdf)
+  - [Qualys: PCI Compliance (PCIC)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-PCI-Compliance-course-completion.pdf)
   - [Qualys: Patch Management (PM)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-PM-course-completion.pdf)
   - [Qualys: Reporting Strategies and Best Practices (RSBP)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-RSBP-course-completion.pdf)
   - [Qualys: Scanning Strategies and Best Practices (SSBP)]([Link](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-SSBP-course-completion.pdf))
