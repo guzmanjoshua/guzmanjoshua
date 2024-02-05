@@ -28,6 +28,7 @@
   - [Coursera: Connect and Protect: Networks and Network Security](Link)
   - [Coursera: Play it Safe: Manage Security Risks](Link)
   - [Coursera: Foundations of Cybersecurity](Link)
+</br>
 
 <p align="left" class="social-icons">
   <strong>🤳 Connect with me:</strong>&nbsp;
