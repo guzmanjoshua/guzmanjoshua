@@ -7,17 +7,18 @@
   
 <h2>📜 Certifications:</h2>
 
-  - <a href="https://github.com/guzmanjoshua/Qualifications/blob/main/Introduction%20to%20Dark%20Web%20Operations-course.pdf"> Security Blue Team: Introduction to Darkweb Operations </a>
   - [Security Blue Team: Introduction to Darkweb Operations](https://github.com/guzmanjoshua/Qualifications/blob/main/Introduction%20to%20Dark%20Web%20Operations-course.pdf)
-  - [Security Blue Team: Introduction to OSINT](Link)
+  - [Security Blue Team: Introduction to OSINT](https://github.com/guzmanjoshua/Qualifications/blob/main/Introduction%20to%20OSINT-course.pdf)
 </br>
 
-  - [Qualys: CyberSecurity Asset Management (CSAM)](Link)
-  - [Qualys: Patch Management (PM)](Link)
-  - [Qualys: Reporting Strategies and Best Practices (RSBP)](Link)
-  - [Qualys: Scanning Strategies and Best Practices (SSBP)](Link)
-  - [Qualys: Vulnerability Management Detection & Response (VMDR)](Link)
-  - [Qualys: Web Application Scanning (WAS)](Link)
+  - [Qualys: CyberSecurity Asset Management (CSAM)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-CSAM-course-completion.pdf)
+  - [Qualys: Policy Compliance (PC)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-PC-course-completion.pdf)
+  -  [Qualys: PCI Compliance (PCIC)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-PC-course-completion.pdf)
+  - [Qualys: Patch Management (PM)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-PM-course-completion.pdf)
+  - [Qualys: Reporting Strategies and Best Practices (RSBP)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-RSBP-course-completion.pdf)
+  - [Qualys: Scanning Strategies and Best Practices (SSBP)]([Link](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-SSBP-course-completion.pdf))
+  - [Qualys: Vulnerability Management Detection & Response (VMDR)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-VMDR-course-completion.pdf)
+  - [Qualys: Web Application Scanning (WAS)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-WAS-course-completion.pdf)
  </br>
  
   - [Coursera: Google Cybersecurity Certificate](Link)
