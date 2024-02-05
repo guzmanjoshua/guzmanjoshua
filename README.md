@@ -16,7 +16,7 @@
   - [Qualys: PCI Compliance (PCIC)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-PCI-Compliance-course-completion.pdf)
   - [Qualys: Patch Management (PM)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-PM-course-completion.pdf)
   - [Qualys: Reporting Strategies and Best Practices (RSBP)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-RSBP-course-completion.pdf)
-  - [Qualys: Scanning Strategies and Best Practices (SSBP)]([Link](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-SSBP-course-completion.pdf))
+  - [Qualys: Scanning Strategies and Best Practices (SSBP)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-SSBP-course-completion.pdf)
   - [Qualys: Vulnerability Management Detection & Response (VMDR)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-VMDR-course-completion.pdf)
   - [Qualys: Web Application Scanning (WAS)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-WAS-course-completion.pdf)
  </br>
