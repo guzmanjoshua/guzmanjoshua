@@ -11,7 +11,7 @@
   - [Security Blue Team: Introduction to OSINT](https://github.com/guzmanjoshua/Qualifications/blob/main/Introduction%20to%20OSINT-course.pdf)
 </br>
 
-<h6> Qualys </h6> 
+<h5> Qualys </h5> 
 
   - [Qualys: CyberSecurity Asset Management (CSAM)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-CSAM-course-completion.pdf)
   - [Qualys: Policy Compliance (PC)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-PC-course-completion.pdf)
