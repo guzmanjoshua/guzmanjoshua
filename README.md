@@ -32,7 +32,7 @@
 <p align="left" class="social-icons">
   <strong>🤳 Connect with me:</strong>&nbsp;
  <span style="float: right;">
- <a href="https://www.X.com/" target="blank"><img align="right" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
- <a href="https://www.linkedin.com/in/guzmanjoshua/" target="blank"><img align="right" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+ <a href="https://www.X.com/" target="blank"><img alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+ <a href="https://www.linkedin.com/in/guzmanjoshua/" target="blank"><img alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
  </span>
 </p>
