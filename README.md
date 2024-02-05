@@ -29,10 +29,11 @@
   - [Coursera: Play it Safe: Manage Security Risks](Link)
   - [Coursera: Foundations of Cybersecurity](Link)
         
-<h2> 🤳 Connect with me:</h2>
- 
+<h2> 🤳 Connect with me:  
 [<img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][X]
 [<img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  
 [X]: https://www.X.com/
-[linkedin]: https://www.linkedin.com/in/guzmanjoshua/
+[linkedin]: https://www.linkedin.com/in/guzmanjoshua/ 
+</h2>
+
