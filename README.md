@@ -39,7 +39,7 @@
 </br>
 
 <h2 align="left" class="social-icons">
- <strong>🤳 Connect with me: </strong>&nbsp; &width="125px";
+ <strong>🤳 Connect with me: </strong>&nbsp;
  <span style="float: right;">
  <a href="https://twitter.com/JoshyG0102" target="blank"><img alt="yourname | Twitter" width="125px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
  <a href="https://www.linkedin.com/in/guzmanjoshua/" target="blank"><img alt="yourname | LinkedIn" width="125px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
