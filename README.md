@@ -6,12 +6,6 @@
   
 <h2>📜 Certifications/Certificates:</h2>
 
-<h5> Security Blue Team Certificates</h5> 
-
-  - [Security Blue Team: Introduction to Darkweb Operations](https://github.com/guzmanjoshua/Qualifications/blob/main/Introduction%20to%20Dark%20Web%20Operations-course.pdf)
-  - [Security Blue Team: Introduction to OSINT](https://github.com/guzmanjoshua/Qualifications/blob/main/Introduction%20to%20OSINT-course.pdf)
-</br>
-
 <h5> Qualys Certifications</h5> 
 
   - [Qualys: CyberSecurity Asset Management (CSAM)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-CSAM-course-completion.pdf)
@@ -23,6 +17,12 @@
   - [Qualys: Vulnerability Management Detection & Response (VMDR)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-VMDR-course-completion.pdf)
   - [Qualys: Web Application Scanning (WAS)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-WAS-course-completion.pdf)
  </br>
+
+<h5> Security Blue Team Certificates</h5> 
+
+  - [Security Blue Team: Introduction to Darkweb Operations](https://github.com/guzmanjoshua/Qualifications/blob/main/Introduction%20to%20Dark%20Web%20Operations-course.pdf)
+  - [Security Blue Team: Introduction to OSINT](https://github.com/guzmanjoshua/Qualifications/blob/main/Introduction%20to%20OSINT-course.pdf)
+</br>
 
 <h5> Coursera Certificates</h5> 
  
