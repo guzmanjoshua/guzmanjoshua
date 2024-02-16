@@ -37,10 +37,8 @@
   - [Coursera: Foundations of Cybersecurity](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%201.pdf)
 </br>
 
-<h2 align="left" class="social-icons">
- <strong>🤳 Connect with me: </strong>&nbsp;
- <span style="float: right;">
- <a href="https://twitter.com/JoshyG0102" target="blank"><img alt="yourname | Twitter" width="125px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
- <a href="https://www.linkedin.com/in/guzmanjoshua/" target="blank"><img alt="yourname | LinkedIn" width="125px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" /></a>
- </span>
-</h2>
+<h2 style="display: inline;">🤳 Connect with me:</h2>
+<a href="https://twitter.com/JoshyG0102"><img align="left" alt="yourname | Twitter" width="52px" src="https://vectorified.com/images/twitter-icon-black-34.jpg" /></a>
+<a href="https://www.linkedin.com/in/guzmanjoshua/" style="color: #0077B5; border: 1px solid #0077B5;">
+  <img align="left" alt="yourname | LinkedIn" width="52px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />
+</a>
