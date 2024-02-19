@@ -3,7 +3,8 @@
 <h2>🛡️ Information Security Projects</h2>
  
 - [Microsoft Sentinal Incident Report - Tailored: Windows Host Firewall Tampering](https://github.com/guzmanjoshua/Incident-Report/blob/main/Tailored%20Windows%20Host%20Firewall%20Tampering%200c12fab9ee9c4410a59519e92307ddc9.md)
-  
+- [How To Install and Scan in Qualys with Azure](https://github.com/guzmanjoshua/Scanners/blob/main/How%20To%20Install%20and%20Scan%20in%20Qualys%20with%20Azure.md)
+    
 <h2>📜 Certifications/Certificates:</h2>
 
 <h5> Qualys Certifications</h5> 
