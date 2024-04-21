@@ -2,7 +2,7 @@
  
 <h2>🛡️ Information Security Projects</h2>
 
-- [Honeynet, SIEM, and Workbooks Diagram](https://github.com/guzmanjoshua/Pictures/blob/main/Azure%20Web.drawioGit.png)
+- [Microsoft Sentinel Log Flow Diagram](https://github.com/guzmanjoshua/Pictures/blob/main/Azure%20Web.drawioGit.png)
 - [13 Azure Incidents](https://github.com/guzmanjoshua/Incident-Report/blob/main/Incidents%20Home%20Page.md)
 - [How To Install and Scan in Qualys with Azure](https://github.com/guzmanjoshua/Scanners/blob/main/How%20To%20Install%20and%20Scan%20in%20Qualys%20with%20Azure.md)
     
