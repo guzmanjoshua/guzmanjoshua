@@ -1,7 +1,7 @@
 <h1>Hi, I'm Joshua Alizay Guzman! <a href="https://www.linkedin.com/in/guzmanjoshua/"> </a>
 </br>
- 
-<h2>🛡️ Information Security Projects</h2>
+</br>
+ <h2>🛡️ Information Security Projects</h2>
 
 - [Microsoft Sentinel Log Flow Diagram](https://github.com/guzmanjoshua/Pictures/blob/main/Azure%20Web.drawioGit.png)
 - [13 Tailored KQL Queries to Populate Azure Incidents](https://github.com/guzmanjoshua/Incident-Report/blob/main/Incidents%20Home%20Page.md)
