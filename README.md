@@ -3,6 +3,7 @@
 
  <h2>🛡️ Information Security Projects</h2>
 
+- [Securing Azure in 24 Hours](https://github.com/guzmanjoshua/Pictures/blob/main/Before%20And%20After.png)
 - [Microsoft Sentinel Log Flow Diagram](https://github.com/guzmanjoshua/Diagrams/blob/main/Azure%20Web.drawioGit.png)
 - [13 Tailored KQL Queries to Populate Azure Incidents](https://github.com/guzmanjoshua/Incident-Report/blob/main/Incidents%20Home%20Page.md)
 - [Qualys Virtual Scanner Appliance Set-Up](https://github.com/guzmanjoshua/Scanners/blob/main/How%20To%20Install%20and%20Scan%20in%20Qualys%20with%20Azure.md)
