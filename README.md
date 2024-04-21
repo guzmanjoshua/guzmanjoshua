@@ -1,6 +1,6 @@
-<h1>Hi, I'm Joshua Alizay Guzman! <a href="https://www.linkedin.com/in/guzmanjoshua/"> </a><h1>
+<h1>Hi, I'm Joshua Alizay Guzman! <a href="https://www.linkedin.com/in/guzmanjoshua/"> </a></h1>
 </br>
-</br>
+
  <h2>🛡️ Information Security Projects</h2>
 
 - [Microsoft Sentinel Log Flow Diagram](https://github.com/guzmanjoshua/Pictures/blob/main/Azure%20Web.drawioGit.png)
