@@ -19,7 +19,6 @@
   - [Qualys: Vulnerability Management Detection & Response (VMDR)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-VMDR-course-completion.pdf)
   - [Qualys: Web Application Scanning (WAS)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-WAS-course-completion.pdf)
  </br>
- 
 <h5> Coursera Certificates</h5> 
  
   - [Coursera: Google Cybersecurity Certificate](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%20ALL.pdf)
