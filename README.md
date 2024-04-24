@@ -12,7 +12,7 @@
 
 <h2>📕 Security Case Studies</h2>
 
-- [SolarWind SolarFlare Case Study](https://github.com/guzmanjoshua/Case-Studies/blob/main/WannaCry%20Case%20Study.md)
+- [SolarWind Sunburst Case Study](https://github.com/guzmanjoshua/Case-Studies/blob/main/WannaCry%20Case%20Study.md)
 - [WannaCry Case Study](https://github.com/guzmanjoshua/Case-Studies/blob/main/WannaCry%20Case%20Study.md)
 </br> 
 
