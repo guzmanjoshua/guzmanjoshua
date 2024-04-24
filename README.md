@@ -11,6 +11,9 @@
 </br>
 
 <h2>📕 Security Case Studies</h2>
+
+- [SolarWind SolarFlare Case Study](https://github.com/guzmanjoshua/Case-Studies/blob/main/WannaCry%20Case%20Study.md)
+- [WannaCry Case Study](https://github.com/guzmanjoshua/Case-Studies/blob/main/WannaCry%20Case%20Study.md)
 </br> 
 
 <h2>📜 Certifications/Certificates:</h2>
