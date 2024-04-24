@@ -10,6 +10,9 @@
 - [Greenbone Security Assistant Set-Up](https://github.com/guzmanjoshua/Scanners/blob/main/Greenbone%20Security%20Assistant%20Set-Up.md)
 </br>
 
+<h2>📕 Security Case Studies</h2>
+</br> 
+
 <h2>📜 Certifications/Certificates:</h2>
 
 <h5> Qualys Certifications</h5> 
