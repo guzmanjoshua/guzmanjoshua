@@ -47,10 +47,9 @@
   - [Coursera: Tools of the Trade: Linux and SQL](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%204.pdf)
 </br>
 
-<h5> Fortinet Certificates</h5> 
+<h5> Fortinet Certificate</h5> 
 
   - [Fortinet: FCA - FortiGate 7.4 Operator Self-Paced](https://github.com/guzmanjoshua/Qualifications/blob/main/Course_Completion_Certificate-1.png)
-
 </br>
 
 <h5> Qualys Certifications</h5> 
@@ -69,6 +68,11 @@
 
   - [Security Blue Team: Introduction to Darkweb Operations](https://github.com/guzmanjoshua/Qualifications/blob/main/Introduction%20to%20Dark%20Web%20Operations-course.pdf)
   - [Security Blue Team: Introduction to OSINT](https://github.com/guzmanjoshua/Qualifications/blob/main/Introduction%20to%20OSINT-course.pdf)
+</br>
+
+<h5> Udemy Certificate</h5> 
+
+  - [Udemy: REST (API) NOW!](https://github.com/guzmanjoshua/Qualifications/blob/main/REST%20(API)%20NOW!%20Cert.jpg)
 </br>
 
 <h2 style="display: inline;">🤳 Connect with me:</h2>
