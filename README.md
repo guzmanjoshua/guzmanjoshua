@@ -3,19 +3,19 @@
 
  <h2>🛡️ Information Security Projects</h2>
 
-  <h5> Azure </h5> 
+ <h5> Azure </h5> 
   
 - [Securing Azure in 24 Hours](https://github.com/guzmanjoshua/Pictures/blob/main/Before%20And%20After%20Remodel.png)
 - [Microsoft Sentinel Log Flow Diagram](https://github.com/guzmanjoshua/Diagrams/blob/main/Azure%20Web.drawioGit.png)
 - [13 KQL Queries to Populate Azure Incidents](https://github.com/guzmanjoshua/Incident-Report/blob/main/Incidents%20Home%20Page.md)
 - [Workbooks and Geo Locations](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/Digitial%20Forensics.md)
 
-  <h5> Scanners </h5> 
+ <h5> Scanners </h5> 
   
 - [Greenbone Security Assistant Set-Up](https://github.com/guzmanjoshua/Scanners/blob/main/Greenbone%20Security%20Assistant%20Set-Up.md)
 - [Qualys Virtual Scanner Appliance Set-Up](https://github.com/guzmanjoshua/Scanners/blob/main/Qualys%20Virtual%20Scanner%20Appliance%20Set-Up.md)
 
-  <h5> Other </h5> 
+ <h5> Other </h5> 
   
 - [Digitial Forensics](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/Digitial%20Forensics.md)
   
