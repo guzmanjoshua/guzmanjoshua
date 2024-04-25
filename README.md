@@ -47,6 +47,12 @@
   - [Coursera: Tools of the Trade: Linux and SQL](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%204.pdf)
 </br>
 
+<h5> Fortinet Certificates</h5> 
+
+  - [Fortinet: FCA - FortiGate 7.4 Operator Self-Paced](https://github.com/guzmanjoshua/Qualifications/blob/main/Course_Completion_Certificate-1.png)
+
+</br>
+
 <h5> Qualys Certifications</h5> 
 
   - [Qualys: CyberSecurity Asset Management (CSAM)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-CSAM-course-completion.pdf)
