@@ -9,8 +9,9 @@
 - [13 KQL Queries to Populate Azure Incidents](https://github.com/guzmanjoshua/Incident-Report/blob/main/Incidents%20Home%20Page.md)
 - [Workbooks and Geo Locations](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/Workbooks%20and%20Geo%20Locations.md)
 
- <h5> Azure Diagram ![PranandaGIF](https://github.com/guzmanjoshua/guzmanjoshua/assets/157519981/1360a9b9-923e-47bf-ad67-4daba66616dc)
-</h5> 
+ <h5> Azure Diagram </h5> 
+
+ ![PranandaGIF](https://github.com/guzmanjoshua/guzmanjoshua/assets/157519981/1360a9b9-923e-47bf-ad67-4daba66616dc)
  
  - [Microsoft Sentinel Log Flow Diagram](https://github.com/guzmanjoshua/Diagrams/blob/main/Azure%20Web.drawioGit.png)
  - [Azure Flow Diagram](https://github.com/guzmanjoshua/Diagrams/blob/main/Azure%20Diagram.png)
