@@ -13,7 +13,7 @@
  
  - [Microsoft Sentinel Log Flow Diagram](https://github.com/guzmanjoshua/Diagrams/blob/main/Azure%20Web.drawioGit.png)
  - [Microsoft Azure Architecture Flow Diagram](https://github.com/guzmanjoshua/Diagrams/blob/main/Azure%20Diagram.png)
- - [Identity Access Management for Microsoft Cloud Hierarchy Diagram](https://github.com/guzmanjoshua/Diagrams/blob/main/Microsoft%20Role%20Hierarchy.png)
+ - [Identity Access Management Diagram for Microsoft Cloud](https://github.com/guzmanjoshua/Diagrams/blob/main/Microsoft%20Role%20Hierarchy.png)
 
  <h5> Scanners </h5> 
   
