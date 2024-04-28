@@ -68,13 +68,11 @@
   - [Coursera: Put it to Work: Prepare for Cybersecurity Jobs](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%208.pdf)
   - [Coursera: Sound the Alarm: Detection and Response](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%206.pdf)
   - [Coursera: Tools of the Trade: Linux and SQL](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%204.pdf)
-</br>
 
 <h5> Security Blue Team Certificates</h5> 
 
   - [Security Blue Team: Introduction to Darkweb Operations](https://github.com/guzmanjoshua/Qualifications/blob/main/Introduction%20to%20Dark%20Web%20Operations-course.pdf)
   - [Security Blue Team: Introduction to OSINT](https://github.com/guzmanjoshua/Qualifications/blob/main/Introduction%20to%20OSINT-course.pdf)
-</br>
 
 <h5> Udemy Certificate</h5> 
 
