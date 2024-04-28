@@ -37,19 +37,6 @@
 </br> 
 
 <h2>📜 Certifications:</h2>
- 
-<h5> Coursera Certificates</h5> 
-
-  - [Coursera: Assets, Threats, and Vulnerabilites](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%205.pdf)
-  - [Coursera: Automate Cybersecurity Tasks with Python](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%207.pdf)
-  - [Coursera: Connect and Protect: Networks and Network Security](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%203.pdf)
-  - [Coursera: Foundations of Cybersecurity](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%201.pdf)
-  - [Coursera: Google Cybersecurity Certificate](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%20ALL.pdf)
-  - [Coursera: Play it Safe: Manage Security Risks](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%202.pdf)
-  - [Coursera: Put it to Work: Prepare for Cybersecurity Jobs](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%208.pdf)
-  - [Coursera: Sound the Alarm: Detection and Response](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%206.pdf)
-  - [Coursera: Tools of the Trade: Linux and SQL](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%204.pdf)
-</br>
 
 <h5> Fortinet Certification</h5> 
 
@@ -68,6 +55,21 @@
   - [Qualys: Web Application Scanning (WAS)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-WAS-course-completion.pdf)
  </br>
 
+<h2>📃 Certificates </h2>
+
+<h5> Coursera Certificates</h5> 
+
+  - [Coursera: Assets, Threats, and Vulnerabilites](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%205.pdf)
+  - [Coursera: Automate Cybersecurity Tasks with Python](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%207.pdf)
+  - [Coursera: Connect and Protect: Networks and Network Security](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%203.pdf)
+  - [Coursera: Foundations of Cybersecurity](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%201.pdf)
+  - [Coursera: Google Cybersecurity Certificate](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%20ALL.pdf)
+  - [Coursera: Play it Safe: Manage Security Risks](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%202.pdf)
+  - [Coursera: Put it to Work: Prepare for Cybersecurity Jobs](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%208.pdf)
+  - [Coursera: Sound the Alarm: Detection and Response](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%206.pdf)
+  - [Coursera: Tools of the Trade: Linux and SQL](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%204.pdf)
+</br>
+
 <h5> Security Blue Team Certificates</h5> 
 
   - [Security Blue Team: Introduction to Darkweb Operations](https://github.com/guzmanjoshua/Qualifications/blob/main/Introduction%20to%20Dark%20Web%20Operations-course.pdf)
@@ -78,8 +80,6 @@
 
   - [Udemy: REST (API) NOW!](https://github.com/guzmanjoshua/Qualifications/blob/main/REST%20(API)%20NOW!%20Cert.jpg)
 </br>
-
-<h2>📃 Certificates </h2>
 
 <h2 style="display: inline;">🤳 Connect with me:</h2>
 <a href="https://twitter.com/JoshyG0102"><img align="left" alt="yourname | Twitter" width="52px" src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" /></a>
