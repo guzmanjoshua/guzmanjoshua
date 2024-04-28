@@ -10,6 +10,10 @@
 - [Threat Intelligence With Workbooks Using Geo Location](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/Workbooks%20and%20Geo%20Locations.md)
 - [Security Improvment Report for an Azure Environment within 24 Hours](https://github.com/guzmanjoshua/Pictures/blob/main/Before%20And%20After%20Remodel.png)
 
+ <h5> Implementing GRC in the Cloud </h5> 
+ 
+- [NIST SP 800-53 Rev 5 in Azure](https://github.com/guzmanjoshua/Pictures/blob/main/Before%20And%20After%20Remodel.png)
+
  <h5> Cloud Architecture Diagrams </h5> 
  
  - [Microsoft Azure Architecture Flow Diagram](https://github.com/guzmanjoshua/Diagrams/blob/main/Azure%20Diagram.png)
