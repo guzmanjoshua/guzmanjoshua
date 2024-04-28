@@ -7,7 +7,7 @@
 
 - [Microsoft Sentinel Log Flow Diagram](https://github.com/guzmanjoshua/Diagrams/blob/main/Azure%20Microsoft%20Sentinal%20Flow%20Chart.png)
 - [13 KQL Queries to Populate Azure Incidents](https://github.com/guzmanjoshua/Incident-Report/blob/main/Incidents%20Home%20Page.md)
-- [Workbooks and Geo Locations](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/Workbooks%20and%20Geo%20Locations.md)
+- [Threat Intelligence With Workbooks Using Geo Location](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/Workbooks%20and%20Geo%20Locations.md)
 - [Securing Azure in 24 Hours](https://github.com/guzmanjoshua/Pictures/blob/main/Before%20And%20After%20Remodel.png)
 
  <h5> Cloud Architecture Diagrams </h5> 
