@@ -3,7 +3,7 @@
 
  <h2>🛡️ Information Security Projects</h2>
 
- <h5> Azure </h5> 
+ <h5> SIEM </h5> 
   
 - [Securing Azure in 24 Hours](https://github.com/guzmanjoshua/Pictures/blob/main/Before%20And%20After%20Remodel.png)
 - [13 KQL Queries to Populate Azure Incidents](https://github.com/guzmanjoshua/Incident-Report/blob/main/Incidents%20Home%20Page.md)
