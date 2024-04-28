@@ -20,9 +20,9 @@
 - [Greenbone Security Assistant Set-Up](https://github.com/guzmanjoshua/Scanners/blob/main/Greenbone%20Security%20Assistant%20Set-Up.md)
 - [Qualys Virtual Scanner Appliance Set-Up](https://github.com/guzmanjoshua/Scanners/blob/main/Qualys%20Virtual%20Scanner%20Appliance%20Set-Up.md)
 
- <h5> Other </h5> 
+ <h5> Digital Forensics </h5> 
   
-- [Digital Forensics DMV Collusion](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/Digitial%20Forensics.md)
+- [DMV Collusion](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/Digitial%20Forensics.md)
   
 </br>
 
