@@ -15,7 +15,7 @@
  - [Microsoft Azure Architecture Flow Diagram](https://github.com/guzmanjoshua/Diagrams/blob/main/Azure%20Diagram.png)
  - [Identity Access Management Diagram for Microsoft Cloud](https://github.com/guzmanjoshua/Diagrams/blob/main/Microsoft%20Role%20Hierarchy.png)
 
- <h5> Scanners </h5> 
+ <h5> Vulnerability Scanning </h5> 
   
 - [Greenbone Security Assistant Set-Up](https://github.com/guzmanjoshua/Scanners/blob/main/Greenbone%20Security%20Assistant%20Set-Up.md)
 - [Qualys Virtual Scanner Appliance Set-Up](https://github.com/guzmanjoshua/Scanners/blob/main/Qualys%20Virtual%20Scanner%20Appliance%20Set-Up.md)
