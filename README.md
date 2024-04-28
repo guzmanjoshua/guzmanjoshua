@@ -28,7 +28,7 @@
 
 <h2>📕 Security Case Studies</h2>
 
-- [SolarWinds Sunburst Case Study](https://github.com/guzmanjoshua/Case-Studies/blob/main/SolarWinds%20Sunburst%20Case%20Study.md)
+- [SolarWinds Case Study](https://github.com/guzmanjoshua/Case-Studies/blob/main/SolarWinds%20Sunburst%20Case%20Study.md)
 - [WannaCry Case Study](https://github.com/guzmanjoshua/Case-Studies/blob/main/WannaCry%20Case%20Study.md)
 </br> 
 
