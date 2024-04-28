@@ -36,7 +36,7 @@
 - [WannaCry Case Study](https://github.com/guzmanjoshua/Case-Studies/blob/main/WannaCry%20Case%20Study.md)
 </br> 
 
-<h2>📜 Certifications:</h2>
+<h2>📜 Certifications </h2>
 
 <h5> Fortinet Certification</h5> 
 
