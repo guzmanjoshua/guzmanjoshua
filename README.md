@@ -3,7 +3,7 @@
 
  <h2>🛡️ Information Security Projects</h2>
 
- <h5> Setting Up Microsoft Sentinel as a Security Information and Event Management (SIEM) System </h5> 
+ <h5> Setting Up Microsoft Sentinel for Security Information and Event Management (SIEM) System </h5> 
 
 - [Microsoft Sentinel Flow Log Diagram](https://github.com/guzmanjoshua/Diagrams/blob/main/Azure%20Microsoft%20Sentinal%20Flow%20Chart.png)
 - [Microsoft Sentinel Alert Triage](https://github.com/guzmanjoshua/Incident-Report/blob/main/Incidents%20Home%20Page.md)
