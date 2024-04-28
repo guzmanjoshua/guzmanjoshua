@@ -30,7 +30,7 @@
   
 </br>
 
-<h2>📕 Security Case Studies</h2>
+<h2>📖 Security Case Studies</h2>
 
 - [SolarWinds Case Study](https://github.com/guzmanjoshua/Case-Studies/blob/main/SolarWinds%20Sunburst%20Case%20Study.md)
 - [WannaCry Case Study](https://github.com/guzmanjoshua/Case-Studies/blob/main/WannaCry%20Case%20Study.md)
@@ -79,7 +79,7 @@
   - [Udemy: REST (API) NOW!](https://github.com/guzmanjoshua/Qualifications/blob/main/REST%20(API)%20NOW!%20Cert.jpg)
 </br>
 
-<h2> Certificates </h2>
+<h2>📃 Certificates </h2>
 
 <h2 style="display: inline;">🤳 Connect with me:</h2>
 <a href="https://twitter.com/JoshyG0102"><img align="left" alt="yourname | Twitter" width="52px" src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" /></a>
