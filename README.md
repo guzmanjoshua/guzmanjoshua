@@ -12,7 +12,7 @@
 
  <h5> Implementing GRC in the Cloud </h5> 
  
-- [NIST SP 800-53 Rev 5 in Azure](https://github.com/guzmanjoshua/Pictures/blob/main/Before%20And%20After%20Remodel.png)
+- [NIST SP 800-53 Rev 5 in Azure](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/NIST%20SP%20800-53%20Rev%205%20in%20Azure.md)
 
  <h5> Cloud Architecture Diagrams </h5> 
  
