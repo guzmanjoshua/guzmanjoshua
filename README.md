@@ -36,7 +36,7 @@
 - [WannaCry Case Study](https://github.com/guzmanjoshua/Case-Studies/blob/main/WannaCry%20Case%20Study.md)
 </br> 
 
-<h2>📜 Certifications/Certificates:</h2>
+<h2>📜 Certifications:</h2>
  
 <h5> Coursera Certificates</h5> 
 
@@ -78,6 +78,8 @@
 
   - [Udemy: REST (API) NOW!](https://github.com/guzmanjoshua/Qualifications/blob/main/REST%20(API)%20NOW!%20Cert.jpg)
 </br>
+
+<h2> Certificates </h2>
 
 <h2 style="display: inline;">🤳 Connect with me:</h2>
 <a href="https://twitter.com/JoshyG0102"><img align="left" alt="yourname | Twitter" width="52px" src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" /></a>
