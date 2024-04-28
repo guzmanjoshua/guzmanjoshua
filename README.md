@@ -22,7 +22,7 @@
 
  <h5> Other </h5> 
   
-- [Digitial Forensics](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/Digitial%20Forensics.md)
+- [Digital Forensics DMV Collusion](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/Digitial%20Forensics.md)
   
 </br>
 
