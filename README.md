@@ -9,6 +9,7 @@
 - [Microsoft Sentinel Alert Triage](https://github.com/guzmanjoshua/Incident-Report/blob/main/Incidents%20Home%20Page.md)
 - [Threat Intelligence With Workbooks Using Geo Location](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/Workbooks%20and%20Geo%20Locations.md)
 - [Security Improvment Report for an Azure Environment within 24 Hours](https://github.com/guzmanjoshua/Pictures/blob/main/Before%20And%20After3.png)
+- [Turning an Azure Honeynet into a NIST Compliant SOC with Microsoft Sentinel and Custom Workbooks](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/Turning%20an%20Azure%20Honeynet%20into%20a%20NIST%20Compliant%20SOC.md)
 
  <h5> Implementing Governence, Risk-Managment, and Compliance (GRC)</h5> 
  
