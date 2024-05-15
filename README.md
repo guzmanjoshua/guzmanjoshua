@@ -83,4 +83,5 @@
 <a href="https://twitter.com/JoshyG0102"><img align="left" alt="yourname | Twitter" width="52px" src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" /></a>
 <a href="https://www.linkedin.com/in/guzmanjoshua/" style="color: #0077B5; border: 1px solid #0077B5;">
   <img align="left" alt="yourname | LinkedIn" width="52px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />
+<a href="https://www.credly.com/users/joshuaguzman"><img align="left" alt="yourname | Credly" width="52px" src="https://www.pngrepo.com/png/331358/512/credly.png" /></a>
 </a>
