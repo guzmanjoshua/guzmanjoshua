@@ -39,6 +39,9 @@
 
 <h2>📜 Certifications </h2>
 
+<h5> CompTIA Certification</h5> 
+  - [CompTIA Network+](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman%20CompTIA%20Network%2B%20ce%20certificate-1.png)
+
 <h5> Fortinet Certification</h5> 
 
   - [Fortinet Certified Assosiate (FCA): FortiGate 7.4 Operator Self-Paced](https://github.com/guzmanjoshua/Qualifications/blob/main/Course_Completion_Certificate-1.png)
