@@ -43,10 +43,6 @@
 
   - [CompTIA Network+](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman%20CompTIA%20Network%2B%20ce%20certificate-1.png)
 
-<h5> Fortinet Certification</h5> 
-
-  - [Fortinet Certified Assosiate (FCA): FortiGate 7.4 Operator Self-Paced](https://github.com/guzmanjoshua/Qualifications/blob/main/Course_Completion_Certificate-1.png)
-
 <h5> Qualys Certifications</h5> 
 
   - [Qualys: CyberSecurity Asset Management (CSAM)](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman-CSAM-course-completion.pdf)
@@ -72,6 +68,10 @@
   - [Coursera: Put it to Work: Prepare for Cybersecurity Jobs](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%208.pdf)
   - [Coursera: Sound the Alarm: Detection and Response](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%206.pdf)
   - [Coursera: Tools of the Trade: Linux and SQL](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%204.pdf)
+
+<h5> Fortinet Certificate</h5> 
+
+  - [Fortinet Certified Assosiate (FCA): FortiGate 7.4 Operator Self-Paced](https://github.com/guzmanjoshua/Qualifications/blob/main/Course_Completion_Certificate-1.png)
 
 <h5> Security Blue Team Certificates</h5> 
 
