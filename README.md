@@ -25,6 +25,10 @@
 - [Greenbone Security Assistant Set-Up](https://github.com/guzmanjoshua/Scanners/blob/main/Greenbone%20Security%20Assistant%20Set-Up.md)
 - [Qualys Virtual Scanner Appliance Set-Up](https://github.com/guzmanjoshua/Scanners/blob/main/Qualys%20Virtual%20Scanner%20Appliance%20Set-Up.md)
 
+ <h5> Windows and Linux Logs </h5>
+
+ -[How to Access and Read Windows and Linux Logs](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/How%20to%20Access%20and%20Read%20Windows%20and%20Linux%20Logs.md)
+
  <h5> Digital Forensics </h5> 
   
 - [DMV Collusion](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/Digitial%20Forensics.md)
