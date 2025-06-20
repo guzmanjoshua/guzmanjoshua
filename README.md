@@ -50,7 +50,7 @@
 <h5> CompTIA Certification</h5>
 
   - [CompTIA: Network+](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman%20CompTIA%20Network%2B%20ce%20certificate-1.png)
-  - [CompTIA: Security+]()
+  - [CompTIA: Security+](https://github.com/guzmanjoshua/Qualifications/blob/main/CompTIA%20Security%2B%20Pic.jpghttps://github.com/guzmanjoshua/Qualifications/blob/main/CompTIA%20Security%2B%20Pic.jpg)
 
 <h5> Qualys Certifications</h5> 
 
@@ -78,7 +78,7 @@
   - [Coursera (Google): Sound the Alarm: Detection and Response](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%206.pdf)
   - [Coursera (Google): Tools of the Trade: Linux and SQL](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%204.pdf)
 
-  - [Coursera (Vanderbilt University): Generative AI Cybersecurity & Privacy for Leaders]()
+  - [Coursera (Vanderbilt University): Generative AI Cybersecurity & Privacy for Leaders](https://github.com/guzmanjoshua/Qualifications/blob/main/VU%20Cybersecurity%20Pic.jpg)
 
 <h5> Fortinet Certificate</h5> 
 
