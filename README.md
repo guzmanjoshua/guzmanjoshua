@@ -80,6 +80,7 @@ Cybersecurity Specialist certified in Security+, Network+, and AI Security. Skil
   - [Coursera (Google): Sound the Alarm: Detection and Response](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%206.pdf)
   - [Coursera (Google): Tools of the Trade: Linux and SQL](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%204.pdf)
     </br>
+    
   - [Coursera (Vanderbilt University): Generative AI Cybersecurity & Privacy for Leaders](https://github.com/guzmanjoshua/Qualifications/blob/main/VU%20Cybersecurity%20Pic.jpg)
 
 <h5> Fortinet Certificate</h5> 
