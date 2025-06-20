@@ -70,17 +70,17 @@ Cybersecurity Specialist certified in Security+, Network+, and AI Security. Skil
 
 <h5> Coursera Certificates</h5> 
 
-  - [Coursera (Google): Assets, Threats, and Vulnerabilites](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%205.pdf)
-  - [Coursera (Google): Automate Cybersecurity Tasks with Python](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%207.pdf)
-  - [Coursera (Google): Connect and Protect: Networks and Network Security](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%203.pdf)
-  - [Coursera (Google): Foundations of Cybersecurity](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%201.pdf)
-  - [Coursera (Google): Google Cybersecurity Certificate](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%20ALL.pdf)
-  - [Coursera (Google): Play it Safe: Manage Security Risks](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%202.pdf)
-  - [Coursera (Google): Put it to Work: Prepare for Cybersecurity Jobs](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%208.pdf)
-  - [Coursera (Google): Sound the Alarm: Detection and Response](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%206.pdf)
-  - [Coursera (Google): Tools of the Trade: Linux and SQL](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%204.pdf)
+  - [Coursera Google: Assets, Threats, and Vulnerabilites](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%205.pdf)
+  - [Coursera Google: Automate Cybersecurity Tasks with Python](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%207.pdf)
+  - [Coursera Google: Connect and Protect: Networks and Network Security](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%203.pdf)
+  - [Coursera Google: Foundations of Cybersecurity](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%201.pdf)
+  - [Coursera Google: Google Cybersecurity Certificate](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%20ALL.pdf)
+  - [Coursera Google: Play it Safe: Manage Security Risks](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%202.pdf)
+  - [Coursera Google: Put it to Work: Prepare for Cybersecurity Jobs](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%208.pdf)
+  - [Coursera Google: Sound the Alarm: Detection and Response](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%206.pdf)
+  - [Coursera Google: Tools of the Trade: Linux and SQL](https://github.com/guzmanjoshua/Qualifications/blob/main/Coursera%20Google%20Certificate%204.pdf)
 
-  - [Coursera (Vanderbilt University): Generative AI Cybersecurity & Privacy for Leaders](https://github.com/guzmanjoshua/Qualifications/blob/main/VU%20Cybersecurity%20Pic.jpg)
+  - [Coursera Vanderbilt University: Generative AI Cybersecurity & Privacy for Leaders](https://github.com/guzmanjoshua/Qualifications/blob/main/VU%20Cybersecurity%20Pic.jpg)
 
 <h5> Fortinet Certificate</h5> 
 
