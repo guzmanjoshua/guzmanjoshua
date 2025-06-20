@@ -1,6 +1,8 @@
 <h1>Hi, I'm Joshua Alizay Guzman! <a href="https://www.linkedin.com/in/guzmanjoshua/"> </a></h1>
 </br>
 
+Cybersecurity Specialist certified in Security+, Network+, and AI Security. Skilled in SIEM, AD, scripting, and cloud defense. Hands-on with SOC labs, Azure Sentinel, and automation—driven to protect, detect, and adapt in dynamic environments.
+
  <h2>🛡️ Projects & Labs </h2>
 
  <h5> Setting Up Microsoft Sentinel for Security Information and Event Management (SIEM) </h5> 
