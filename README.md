@@ -1,5 +1,5 @@
 <h1>Hi, I'm Joshua Alizay Guzman! <a href="https://www.linkedin.com/in/guzmanjoshua/"> </a></h1>
-Cybersecurity enthusiast with a strong focus on hands-on projects and labs, specializing in Microsoft Sentinel SIEM setup, Azure security compliance using NIST SP 800-53, and building secure SOC environments with custom threat intelligence workbooks. Experienced in vulnerability scanning, digital forensics, and Active Directory home lab configurations. Certified in CompTIA Security+ & Network+, Qualys Vulnerability Management, and Generative AI Cybersecurity. Continuously sharpening skills through practical labs and real-world case studies to build resilient, compliant, and automated security solutions.
+Cybersecurity Specialist with a strong focus on hands-on projects and labs, specializing in Microsoft Sentinel SIEM setup, Azure security compliance using NIST SP 800-53, and building secure SOC environments with custom threat intelligence workbooks. Experienced in vulnerability scanning, digital forensics, and Active Directory home lab configurations. Certified in CompTIA Security+ & Network+, Qualys Vulnerability Management, and Generative AI Cybersecurity. Continuously sharpening skills through practical labs and real-world case studies to build resilient, compliant, and automated security solutions.
 </br>
 
  <h2>🛡️ Projects & Labs </h2>
