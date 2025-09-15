@@ -37,7 +37,11 @@ Cybersecurity Specialist with a strong focus on hands-on projects and labs, spec
  <h5> Digital Forensics </h5> 
   
 - [DMV Collusion](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/Digitial%20Forensics.md)
+
+ <h5> Video Games </h5>
   
+- [Necromancer's Deed](https://github.com/guzmanjoshua/Video-Games/blob/main/Necromancer's%20Deed.md)
+
 </br>
 
 <h2>📖 Security Case Studies</h2>
