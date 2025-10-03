@@ -1,5 +1,11 @@
 <h1>Hi, I'm Joshua Alizay Guzman! <a href="https://www.linkedin.com/in/guzmanjoshua/"> </a></h1>
-Cybersecurity Specialist with a strong focus on hands-on projects and labs, specializing in Microsoft Sentinel SIEM setup, Azure security compliance using NIST SP 800-53, and building secure SOC environments with custom threat intelligence workbooks. Experienced in vulnerability scanning, digital forensics, and Active Directory home lab configurations. Certified in CompTIA Security+ & Network+, Qualys Vulnerability Management, and Generative AI Cybersecurity. Continuously sharpening skills through practical labs and real-world case studies to build resilient, compliant, and automated security solutions.
+Network Engineer and Cybersecurity Specialist with hands-on experience building enterprise-style labs and monitoring solutions. Skilled in Cisco IOS (VLANs, NAT, DHCP, OSPF/EIGRP, ACLs), firewalls, and Linux administration.
+
+Projects include deploying a physical Cisco homelab integrated with Splunk Enterprise for SIEM-style log analysis and Grafana/Prometheus for metrics-based observability, building an Active Directory homelab with PowerShell automation, and implementing an Azure SOC honeynet with Microsoft Sentinel using NIST 800-53 compliance and custom KQL queries.
+
+Certified in CompTIA Security+, CompTIA Network+, Qualys Vulnerability Management, and Generative AI Cybersecurity & Privacy for Leaders. Experienced in tools such as VMware vSphere, ServiceNow, SMA OpCon, EMC NetWorker, and SCOM.
+
+Focused on bridging networking, security, and automation through practical labs, projects, and continuous learning to simulate real-world enterprise environments.
 </br>
 
  <h2>🛡️ Projects & Labs </h2>
