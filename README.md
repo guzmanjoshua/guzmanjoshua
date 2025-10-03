@@ -10,6 +10,16 @@ Focused on bridging networking, security, and automation through practical labs,
 
  <h2>🛡️ Projects & Labs </h2>
 
+ <h5> Enterprise-Style Physical Cisco Homelab </h5> 
+
+ - [Cisco Server Rack Homelab – Overview]()
+ - [Cisco Server Rack Homelab - Network Topology Diagram (WIP)]()
+ - [1 - Base Configuration]()
+ - [2 - WAN to LAN with VLANs & NAT]()
+ - [3 - DHCP Migration to Raspberry Pi]()
+ - [4 - Centralized Logging with Splunk]()
+ - [5 - Metrics Monitoring with Prometheus & Grafana]()
+
  <h5> Setting Up Microsoft Sentinel for Security Information and Event Management (SIEM) </h5> 
 
 - [Security Improvment Report for an Azure Environment within 24 Hours](https://github.com/guzmanjoshua/Cybersecurity-Projects/blob/main/Before%20and%20After%20Honeynet%20Report.md)
