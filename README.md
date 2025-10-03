@@ -12,7 +12,7 @@ Focused on bridging networking, security, and automation through practical labs,
 
  <h5> Enterprise-Style Physical Cisco Homelab </h5> 
 
- - [Cisco Server Rack Homelab – Overview]()
+ - [Cisco Server Rack Homelab – Overview](https://github.com/guzmanjoshua/Network-Projects/blob/main/Cisco%20Server%20Rack%20Homelab%20%E2%80%93%20Overview.md)
  - [Cisco Server Rack Homelab - Network Topology Diagram (WIP)]()
  - [1 - Base Configuration]()
  - [2 - WAN to LAN with VLANs & NAT]()
