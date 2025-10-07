@@ -12,13 +12,13 @@ Focused on bridging networking, security, and automation through practical labs,
 
  <h5> Enterprise-Style Physical Cisco Homelab </h5> 
 
- - [Cisco Server Rack Homelab – Overview](https://github.com/guzmanjoshua/Network-Projects/blob/main/Cisco%20Server%20Rack%20Homelab%20%E2%80%93%20Overview.md)
- - [Cisco Server Rack Homelab - Network Topology Diagram (WIP)]()
- - [1 - Base Configuration]()
- - [2 - WAN to LAN with VLANs & NAT]()
- - [3 - DHCP Migration to Raspberry Pi]()
- - [4 - Centralized Logging with Splunk]()
- - [5 - Metrics Monitoring with Prometheus & Grafana]()
+ - [Cisco Server Rack Homelab (CSRHL) – Overview](https://github.com/guzmanjoshua/Network-Projects/blob/main/Cisco%20Server%20Rack%20Homelab%20%E2%80%93%20Overview.md)
+ - [Cisco Server Rack Homelab (CSHRL) - Network Topology Diagram (WIP)]()
+ - [Part 1 of CSRHL - Base Configuration](https://github.com/guzmanjoshua/Network-Projects/blob/main/Part%201%20of%20CSRHL%20-%20Base%20Configuration.md)
+ - [Part 2 of CSRHL - WAN to LAN with VLANs & NAT]()
+ - [Part 3 of CSRHL - DHCP Migration to Raspberry Pi]()
+ - [Part 4 of CSRHL - Centralized Logging with Splunk]()
+ - [Part 5 of CSRHL - Metrics Monitoring with Prometheus & Grafana]()
 
  <h5> Setting Up Microsoft Sentinel for Security Information and Event Management (SIEM) </h5> 
 
