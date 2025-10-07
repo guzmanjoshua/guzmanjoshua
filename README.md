@@ -68,7 +68,7 @@ Focused on bridging networking, security, and automation through practical labs,
 
 <h2>📜 Certifications </h2>
 
-<h5> CompTIA Certification</h5>
+<h5> CompTIA Certifications</h5>
 
   - [CompTIA: Network+](https://github.com/guzmanjoshua/Qualifications/blob/main/Joshua%20Guzman%20CompTIA%20Network%2B%20ce%20certificate-1.png)
   - [CompTIA: Security+](https://github.com/guzmanjoshua/Qualifications/blob/main/CompTIA%20Security%2B%20Pic.jpg)
