@@ -15,10 +15,10 @@ Focused on bridging networking, security, and automation through practical labs,
  - [Cisco Server Rack Homelab (CSRHL) – Overview](https://github.com/guzmanjoshua/Network-Projects/blob/main/Cisco%20Server%20Rack%20Homelab%20%E2%80%93%20Overview.md)
  - [Cisco Server Rack Homelab (CSHRL) - Network Topology Diagram (WIP)]()
  - [Part 1 of CSRHL - Base Configuration](https://github.com/guzmanjoshua/Network-Projects/blob/main/Part%201%20of%20CSRHL%20-%20Base%20Configuration.md)
- - [Part 2 of CSRHL - WAN to LAN with VLANs & NAT]()
- - [Part 3 of CSRHL - DHCP Migration to Raspberry Pi]()
- - [Part 4 of CSRHL - Centralized Logging with Splunk]()
- - [Part 5 of CSRHL - Metrics Monitoring with Prometheus & Grafana]()
+ - [Part 2 of CSRHL - WAN to LAN with VLANs & NAT](https://github.com/guzmanjoshua/Network-Projects/blob/main/Part%202%20of%20CSRHL%20-%20WAN%20to%20LAN%20with%20VLANs%20%26%20NAT.md)
+ - [Part 3 of CSRHL - DHCP Migration to Raspberry Pi](https://github.com/guzmanjoshua/Network-Projects/blob/main/Part%203%20of%20CSRHL%20-%20DHCP%20Migration%20to%20Raspberry%20Pi.md)
+ - [Part 4 of CSRHL - Centralized Logging with Splunk](https://github.com/guzmanjoshua/Network-Projects/blob/main/Part%204%20of%20CSRHL%20-%20Centralized%20Logging%20with%20Splunk.md)
+ - [Part 5 of CSRHL - Metrics Monitoring with Prometheus & Grafana](https://github.com/guzmanjoshua/Network-Projects/blob/main/Part%205%20of%20CSRHL%20-%20Metrics%20Monitoring%20with%20Prometheus%20%26%20Grafana.md)
 
  <h5> Setting Up Microsoft Sentinel for Security Information and Event Management (SIEM) </h5> 
 
